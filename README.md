@@ -250,7 +250,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Langman](https://github.com/themsaid/laravel-langman) - Manage language files from Artisan Console
 * [Laravel Translation](https://github.com/waavi/translation) - Translation and localization management
 * [Linguist](https://github.com/keevitaja/linguist) - i18n localization support for Laravel
-
+* [Lexi Translate](https://github.com/omaralalwi/lexi-translate) - multilingual Eloquent models with power of morph relationships and caching
+* 
 ##### Third-party Service Integration
 
 * [Laravel Analytics](https://github.com/spatie/laravel-analytics) - Retrieve pageviews and other data from Google Analytics
